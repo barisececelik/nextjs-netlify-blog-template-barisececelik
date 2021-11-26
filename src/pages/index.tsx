@@ -13,10 +13,10 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Hi, We're Next.js & Netlify<span className="fancy">.</span>
+            Merhaba, ben Barış.<span className="fancy">.</span>
           </h1>
           <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A blog template with Next.js and Netlify.</h2>
+          <h2>10 yılı aşkın süredir sivil toplum kuruluşlarında çalışıyorum. Bu blogda sivil toplum kuruluşlarının daha etkili dijital iletişim yapmaları için kendi deneyimlediğim tavsiyelerimi yazacağım. Benimle aşağıdaki bağlantıları kullanarak veya barisececelik@gmail.com adresine e-posta göndererek iletişim kurabilirsin. </h2>
           <SocialList />
         </div>
       </div>
