@@ -16,12 +16,12 @@ export default function Index() {
             Merhaba, ben Barış.<span className="fancy">.</span>
           </h1>
           <span className="handle">@nextjs-netlify-blog</span>
-          <h2>10 yılı aşkın süredir sivil toplum kuruluşlarında çalışıyorum. <br>
-          Bu blogda sivil toplum kuruluşlarının daha etkili dijital iletişim<br></br>
-          yapmaları için kendi deneyimlediğim tavsiyelerimi yazacağım. <br></br>
-          Benimle aşağıdaki bağlantıları kullanarak veya <br></br>
-          barisececelik@gmail.com adresine e-posta göndererek <br></br>
-          iletişim kurabilirsin. </h2>
+          <h4>10 yılı aşkın süredir sivil toplum kuruluşlarında çalışıyorum. <br>
+          Bu blogda sivil toplum kuruluşlarının daha etkili dijital iletişim<br>
+          yapmaları için kendi deneyimlediğim tavsiyelerimi yazacağım. <br>
+          Benimle aşağıdaki bağlantıları kullanarak veya <br>
+          barisececelik@gmail.com adresine e-posta göndererek <br>
+          iletişim kurabilirsin. </h4>
           <SocialList />
         </div>
       </div>
