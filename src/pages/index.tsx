@@ -13,15 +13,15 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Merhaba, ben Barış.<span className="fancy">.</span>
+            Merhaba, ben Barış<span className="fancy">.</span>
           </h1>
           <span className="handle">@nextjs-netlify-blog</span>
-          <h4>10 yılı aşkın süredir sivil toplum kuruluşlarında çalışıyorum. <br>
+          <h2>10 yılı aşkın süredir sivil toplum kuruluşlarında çalışıyorum. <br>
           Bu blogda sivil toplum kuruluşlarının daha etkili dijital iletişim<br>
           yapmaları için kendi deneyimlediğim tavsiyelerimi yazacağım. <br>
           Benimle aşağıdaki bağlantıları kullanarak veya <br>
           barisececelik@gmail.com adresine e-posta göndererek <br>
-          iletişim kurabilirsin. </h4>
+          iletişim kurabilirsin. </h2>
           <SocialList />
         </div>
       </div>
@@ -39,7 +39,7 @@ export default function Index() {
           font-weight: 500;
         }
         h2 {
-          font-size: 1.75rem;
+          font-size: 1rem;
           font-weight: 400;
           line-height: 1.25;
         }
